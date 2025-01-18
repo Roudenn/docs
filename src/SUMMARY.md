@@ -141,7 +141,7 @@ Guidelines & Proposals
 
 	- [Command](en/space-station-14/departments/command.md)
 		- [PR Guidelines](en/space-station-14/departments/command/guidelines.md)
-		- 
+
 		- [Proposals]()
 
 	- [Engineering](en/space-station-14/departments/engineering.md)
