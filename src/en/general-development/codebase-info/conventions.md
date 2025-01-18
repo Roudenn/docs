@@ -4,8 +4,6 @@ There are nearly infinite ways to program the same thing, but some ways will get
 
 In this page you'll learn all about the coding conventions we have chosen for the codebase, which you'll need to follow if you want to get your PR merged.
 
-See [Codebase Organization](./codebase-organization.md) for guidelines on how files and folders are organized in the GS14 codebase.
-
 Read the [Pull Request guidelines](./pull-request-guidelines.md) to learn how to make your code more reviewable by maintainers.
 
 ```admonish info
