@@ -1,10 +1,14 @@
+```admonish warning
+This page is under construction and is just a copy-paste of wizden's doc right now. Just read theirs and get requested changes for missing all the goob-specific stuff :P.
+```
+
 # Pull Request Guidelines
 
 Thank you for contributing to Space Station 14. When submitting pull requests (PRs), please follow these guidelines to make your pull requests easier to review and merge. Pull requests that do not follow these guidelines may be closed at a maintainer's discretion.
 
 ## Before You Begin
 
-- If you're unfamiliar with the Git workflow, please read our [Git guide](../setup/git-for-the-ss14-developer.md) and ask as many questions as you need in #howdoicode.
+- If you're unfamiliar with the Git workflow, please [howdoicode](../setup/howdoicode.md) and ask as many questions as you need in our [Development Discord](https://discord.gg/zXk2cyhzPN).
 
 - Please have some familiarity with [C# conventions](https://docs.microsoft.com/en-us/dotnet/csharp/) (if working with C#) and [our own conventions](./conventions.md). Try to read how other parts of the codebase are formatted for a general idea.
 

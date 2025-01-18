@@ -4,12 +4,12 @@
 /* allow wider content since no navvybar buttons */
 :root {
     --content-max-width: 850px;
-    --sidebar-active: #e23229;
+    --sidebar-active: #ed9d09;
 }
 
 /* title text on top of every page */
 .menu-title {
-    color: #e23229;
+    color: #ed9d09;
 }
 
 @media only screen and (min-width: 1366px) {
@@ -54,7 +54,7 @@ td>ol,
 td>ul {
     margin: 0;
     padding: 0;
-    padding-left: inherit;
+    padding-left: 10px;
 }
 
 main h2, h3 {

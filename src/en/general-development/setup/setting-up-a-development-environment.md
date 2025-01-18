@@ -1,3 +1,7 @@
+```admonish warning
+This page is under construction and a lot of the information here is out of date or incorrect. Just read wizden's development environment and replace the repo you're using with Goob's. Literally the only reason I haven't deleted this page is because people literally just want to copy past commands without using 1 brain cell.
+```
+
 # Setting up a Development Environment
 
 First you're gonna need some software:
@@ -9,7 +13,7 @@ First you're gonna need some software:
 * Preferably an IDE to make development not painful (all free options unless otherwise noted):
   * For **Windows**, [Visual Studio 2022 **Community**](https://www.visualstudio.com/). For a minimal install (Jesus it's large) you're gonna want the .NET desktop development workload, the C# compiler, C# support, NuGet package manager, MSBuild and .NET 8 SDK or something along those lines.
   * For **macOS**, [Visual Studio for Mac](https://docs.microsoft.com/en-us/visualstudio/mac/).
-  * For **all platforms**, (NOT FREE) [Rider](https://www.jetbrains.com/rider/) is one of the best IDEs available, and many GS14 devs prefer it over Visual Studio. College/University students can get a free education license, even if they're not a computer science major.
+  * For **all platforms**, (NOT FREE) [Rider](https://www.jetbrains.com/rider/) is an IDE preferred by some mostly wizden developers. College/University students can get a free education license, even if they're not a computer science major.
   * For **all platforms**, [Visual Studio Code](https://code.visualstudio.com/) with the C# extension. Usually an inferior IDE experience than full blown IDEs like regular Visual Studio, but some experienced programmers enjoy the minimalism.
     * **Exclusive to VSCode/VSCodium**: you can install our community made [Robust YAML](https://marketplace.visualstudio.com/items?itemName=slava0135.robust-yaml) extension for better Robust Toolbox YAML experience on top of [YAML Language Support](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) extension.
   * For **all platforms**, [VSCodium](https://vscodium.com/) with the C# extension. Open source and without the bloat and tracking of VSCode.

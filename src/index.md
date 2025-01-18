@@ -31,4 +31,5 @@ If you would like to make contributions to this documentation site, it's hosted 
 ## Links
 [🌐 Website](https://goobstation.com/)
 [🎮 Forums](https://forums.goobstation.com/)
+[🔊 Development Discord](https://discord.gg/zXk2cyhzPN)
 [🔊 Discord](https://discord.goobstation.com/)

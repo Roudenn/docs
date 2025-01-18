@@ -1,3 +1,7 @@
+```admonish warning
+just read wizden docs, this hasn't been goobified
+```
+
 # Codebase Organization
 
 ## Projects
