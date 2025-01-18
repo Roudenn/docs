@@ -24,7 +24,7 @@ First you're gonna need some software:
 
 If you're **familiar with Git**, just fork and clone the repository, set up remotes, and then follow the submodule guide below.
 
-If you're **unfamiliar with Git**, or just don't know how to proceed, follow the [Git for the GS14 Developer](./git-for-the-ss14-developer.md) guide, which goes in depth on how to contribute to the game and how to set up your initial repository. It also touches on submodule setup, but that's included here as well because of its importance.
+If you're **unfamiliar with Git**, or just don't know how to proceed, read the [howdoicode](../setup/howdoicode.md) guide, which goes in depth on how to contribute to the game and how to set up your initial repository. It also touches on submodule setup, but that's included here as well because of its importance.
 
 ## 2. Submodule Setup
 

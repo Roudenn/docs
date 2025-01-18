@@ -25,7 +25,6 @@ General Development
 - [Setup](en/general-development/setup.md)
   - [How do I code?](en/general-development/setup/howdoicode.md)
   - [Setting up a Development Environment](en/general-development/setup/setting-up-a-development-environment.md)
-  - [Git for the GS14 Developer](en/general-development/setup/git-for-the-ss14-developer.md)
   - [Server Hosting Tutorial](en/general-development/setup/server-hosting-tutorial.md)
 - [Codebase Info](en/general-development/codebase-info.md)
   - [Help, I'm So Lost](en/general-development/codebase-info/im-so-lost.md)
