@@ -45,6 +45,7 @@ traverse-parent-directories = false
 warning-policy = "ignore" # false-positives like hell with absolute links & latex, so.. cant do
 
 # Redirects
+[output.html.redirect]
 "/en/community/admin/wizards-den-banning-policy.html" = "/en/community/admin/goob-station-banning-policy.html"
 "/en/community/admin/wizards-den-admin-policy.html" = "/en/community/admin/goob-station-admin-policy.html"
 "/en/community/space-wizards-maintainer-list.html" = "/en/community/goob-station-maintainer-list.html"
