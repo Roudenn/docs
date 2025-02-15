@@ -4,7 +4,6 @@
 
 ## Head Of Staff:
 - Hawk_Tuah
-- Piras314
 - Tikibomb
 
 ## Head Game Admins:
@@ -12,11 +11,9 @@
 
 ## Full Game Admins:
 - BeeRobyn
-- CodyPencil
 - Cbozo
 - nymhole
 - Ratissar
-- terezi4real
 - NeKognitoHazard
 - Cheki
 - Redcreeper
@@ -24,9 +21,9 @@
 - DanceMan
 - Archylle
 - CerberusWolfie
-
-## Trial Game Admins:
 - Jvne
 - murdume
 - luxintus
 - ChainXyle
+
+## Trial Game Admins:
