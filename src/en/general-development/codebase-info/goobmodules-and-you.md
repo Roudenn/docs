@@ -76,7 +76,7 @@ Each module must have an EntryPoint class which inherits from the appropriate ty
 Each of these base classes provides override methods for each RunLevel (PreInit, Init, PostInit). Refer to the engine documentation for more information about these.
 
 ### 5. Configure IoC
-You'll need to set up Inversion of Control. Refer to the Space Wizards [IoC documentation](docs.spacestation14.com/en/robust-toolbox/ioc.html) for detailed information.
+You'll need to set up Inversion of Control. Refer to the Space Wizards [IoC documentation](https://docs.spacestation14.com/en/robust-toolbox/ioc.html) for detailed information.
 
 ### 6. Configure Build Paths
 When building your project:
