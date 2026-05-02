@@ -120,6 +120,8 @@ Guidelines & Proposals
 	- [PR Guidelines](en/space-station-14/round-flow/guidelines.md)
 	
 	- [Antagonists](en/space-station-14/round-flow/antagonists.md)
+	
+	- [Shuttles](en/space-station-14/round-flow/shuttles.md)
 
 	- [Proposals]()
 		
@@ -137,7 +139,8 @@ Guidelines & Proposals
 	- [Cargo/Salvage](en/space-station-14/departments/cargo-salvage.md)
 		- [PR Guidelines](en/space-station-14/departments/cargo-salvage/guidelines.md)
 
-    - [Proposals]()
+    	- [Proposals]()
+			- [Lavaland](en/space-station-14/departments/cargo-salvage/proposals/lavaland.md)
 
 	- [Command](en/space-station-14/departments/command.md)
 		- [PR Guidelines](en/space-station-14/departments/command/guidelines.md)
